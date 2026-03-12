@@ -124,6 +124,20 @@ Examples include:
 
 This made it possible to compare policy alternatives under both favorable and unfavorable conditions, rather than relying on a single fixed assumption.
 
+
+## Overall Impact of the Policy Package
+
+When all proposed strategies were applied together — including the tiered commission policy, promotion cost-sharing rule, new-user coupon restriction, and VIP-focused coupon targeting — the platform showed a substantial improvement in profitability while maintaining merchant viability.
+
+| Scenario                    | Platform Margin | Merchant Margin | Platform Total Profit | Merchant Total Profit |
+| --------------------------- | --------------- | --------------- | --------------------- | --------------------- |
+| Original                    | 5.00%           | 81.65%          | 48,781.75             | 797,160.75            |
+| After Applying All Policies | 9.88%           | 82.40%          | 97,373.10             | 812,058.34            |
+| Change                      | **+4.88%p**     | **+0.75%p**     | **+99.61%**           | **+1.87%**            |
+
+These results suggest that the policy package improved platform profitability significantly without reducing merchant profitability, supporting the idea that targeted promotion design and differentiated commission policies can strengthen both platform sustainability and marketplace balance.
+
+
 ## Key Findings
 
 - Profitability is highly sensitive to how promotion costs are allocated between the platform and merchants.
